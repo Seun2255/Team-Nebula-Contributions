@@ -116,3 +116,15 @@ some Major updates to the frontend
 
 
 ## Project 3
+
+### 1 https://github.com/Team-K-blockgames/Project-3/commit/38d71dd7a4bd369455f2077df4e86c9efc2a7f4f
+
+Frontend UI layout
+
+### 2 https://github.com/Team-K-blockgames/Project-3/commit/b4af2d83908e83210f7f4197d29a1d133228768d
+
+Made create election page and minor updates
+
+### 3 https://github.com/Team-K-blockgames/Project-3/commit/52fff5f14779d20f434e91b65f0713b2332d8276
+
+Integrated contract with some pages
