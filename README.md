@@ -1,5 +1,7 @@
-# Team-Nebula-Contributions
+# Blockgames All Project Contributions
 A link to all my contributions to the projects I've done so far
+
+Projects 1 & 2 are contributions to Team Nebula, project 3 is for Team K 
 
 ## Project 1 Contributions
 
