@@ -117,7 +117,7 @@ Added blacklist user feature to smart contract
 some Major updates to the frontend
 
 
-## Project 3
+## Project 3 Contributions
 
 ### 1 https://github.com/Team-K-blockgames/Project-3/commit/38d71dd7a4bd369455f2077df4e86c9efc2a7f4f
 
