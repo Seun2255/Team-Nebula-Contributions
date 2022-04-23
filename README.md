@@ -128,3 +128,35 @@ Made create election page and minor updates
 ### 3 https://github.com/Team-K-blockgames/Project-3/commit/52fff5f14779d20f434e91b65f0713b2332d8276
 
 Integrated contract with some pages
+
+### 4 https://github.com/Team-K-blockgames/Project-3/commit/612f9d31c98084c6f1174d4d344c8a36ff54b4b0
+
+Created Elections page and child components
+
+### 5 https://github.com/Team-K-blockgames/Project-3/commit/a55a1c9a65a204e3196a1c42ee24d49905f2dcfc
+
+Made modals for election page's
+
+### 6 https://github.com/Team-K-blockgames/Project-3/commit/ba94242bd318da7319bab31bb63b6dd596f8ad77
+
+Created modals for adding contestant and voters
+
+### 7 https://github.com/Team-K-blockgames/Project-3/commit/915690332adc35d9aa96e2fe4b3086c7ef5470b4
+
+Fully implemented creations and viewing elections
+
+### 8 https://github.com/Team-K-blockgames/Project-3/commit/46198bc9df1e37bdacdde07b2c05e9c63acc896e
+
+Added results page and modals
+
+### 9 https://github.com/Team-K-blockgames/Project-3/commit/c72e0b2a0f726752daecf951251dcf9286b8a8f8
+
+All app features implemented
+
+### 10 https://github.com/Team-K-blockgames/Project-3/commit/7753c1da434ea45d063a1655f31d45e4583ed60b
+
+Final chnages, Frontend Completed
+
+### 11 https://github.com/Team-K-blockgames/Project-3/commit/aa62175c84c729b2ac58a556b987087789ba3f62
+
+Added comments to the election Contract
