@@ -1,5 +1,5 @@
 # Team-Nebula-Contributions
-A link to all my contributions to Team Nebulas Projects
+A link to all my contributions to the projects I've done so far
 
 ## Project 1 Contributions
 
